@@ -1,3 +1,10 @@
+---
+title: My Blog
+---
+
+<link rel="stylesheet" href="style.css">
+
+
 # 📝 My Blog
 
 ようこそ！ここではサンプル記事を公開しています。
