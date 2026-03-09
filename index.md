@@ -15,3 +15,4 @@ title: My Blog
 - [サンプル記事3](post3.md)
 - [サンプル記事4](post4.md)
 - [サンプル記事5](post5.md)
+- [サンプル記事6](post6.md)
