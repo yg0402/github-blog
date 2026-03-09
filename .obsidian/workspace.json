@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "post3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "post3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "post3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "indexへのバックリンク"
+              "title": "post3へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "post3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "indexからのアウトゴーイングリンク"
+              "title": "post3からのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "post3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "post3のアウトライン"
             }
           },
           {
@@ -194,12 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b62530e908ccbe0",
+  "active": "7eab242d25e0d488",
   "lastOpenFiles": [
-    "post6.md",
-    "post5.md",
-    "post4.md",
+    "assets/img-1.png",
     "post3.md",
+    "assets",
+    "post6.md",
+    "post4.md",
+    "post5.md",
+    "post2.md",
     "index.md"
   ]
 }
