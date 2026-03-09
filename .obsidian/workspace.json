@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gh-blog/post7.md",
+                "file": "gh-blog/post7 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post7"
+              "title": "post7 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gh-blog/post7.md",
+                "file": "gh-blog/post7 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "post7へのバックリンク"
+              "title": "post7 1へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gh-blog/post7.md",
+                "file": "gh-blog/post7 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "post7からのアウトゴーイングリンク"
+              "title": "post7 1からのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gh-blog/post7.md",
+                "file": "gh-blog/post7 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "post7のアウトライン"
+              "title": "post7 1のアウトライン"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "bc6cf567e019b3c1",
   "lastOpenFiles": [
-    "assets/img-1.png",
     "gh-blog/post7.md",
+    "gh-blog/post7 1.md",
+    "assets/img-1.png",
     "SCR-20260310-bzkm.png",
     "gh-blog/post6.md",
     "gh-blog/post3.md",
